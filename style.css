@@ -10,6 +10,10 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
+}
+.text-box-1{
+    text-align: justify;
 }
 .half-width{
     width: 50%;
@@ -17,6 +21,7 @@ section{
 }
 .half-width img{
     width: 80%;
+
 }
 .link-button{
     text-decoration: none;
@@ -28,5 +33,11 @@ section{
 .bg-image{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 
 }
